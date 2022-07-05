@@ -2,3 +2,14 @@ body{
     font-family: 'Signika Negative', sans-serif;
     margin: 0%;
 }
+h1{
+    font-size: 65px;
+    padding-top: 100px;
+}
+.first-part{
+    display: flex;
+    margin-left: 7%;   
+}
+.first-part img{
+    width: 100%;
+}
