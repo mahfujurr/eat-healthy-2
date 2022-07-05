@@ -17,9 +17,6 @@ p{
     display: flex;
     margin-left: 7%;   
 }
-.first-part img{
-    width: 95%;
-}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(rgba(106, 10, 170, 0.781),rgba(240, 44, 109, 0.918));
@@ -29,5 +26,25 @@ p{
     font-weight: 700;
     font-size: 24px;
 }
+.first-block img{
+    width: 90%;
+    margin-left: 15%;
+}
 
-
+.second-part{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-top: 5%;  
+    background-size: cover;
+}
+#fbltwo{
+    padding-top: 10%;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+#fblone img{
+    width: 90%;
+    margin: 9% 0 0 40%;
+    
+}
