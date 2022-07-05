@@ -48,3 +48,22 @@ p{
     margin: 9% 0 0 40%;
     
 }
+h3{
+    font-size: 35px;
+}
+.hnp{
+    text-align: center;
+    margin: 0% 20% 0% 20%;
+}
+.fhalf img{
+    width: 80%;
+    border-radius: 15px;
+    margin-left: 40px;
+}
+.fhalf{
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px 20px 60px 20px;
+    margin-right: 5%;
+    margin-left: 10px;
+
+}
