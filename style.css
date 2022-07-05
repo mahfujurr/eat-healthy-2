@@ -56,14 +56,16 @@ h3{
     margin: 0% 20% 0% 20%;
 }
 .fhalf img{
-    width: 80%;
-    border-radius: 15px;
-    margin-left: 40px;
+    width: 97%;
+    border-radius: 25px;
+    margin-left: 8px;
+    margin-top: 8px;
 }
 .fhalf{
     box-shadow: 10px 10px 40px gray;
-    padding: 20px 20px 60px 20px;
+    padding: 20px 20px 0px 20px;
     margin-right: 5%;
-    margin-left: 10px;
+    margin-left: 20px;
+    border-radius: 25px;
 
 }
